@@ -6,4 +6,5 @@ O arquivo principal esta na pasta src.
 
 ## Sobre oque é o projeto
 
-Um exercício simples sobre a sintaxe de java pra relembrar conceitos passado no curso
+
+Um exercício simples sobre a sintaxe de java pra relembrar conceitos passados no curso
